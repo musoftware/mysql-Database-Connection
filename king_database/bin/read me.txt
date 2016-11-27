@@ -1,0 +1,8 @@
+change data connection in the file connentionString.ini
+
+the sequance like that
+
+HOST
+USER
+PASS
+DATABASE NAME
